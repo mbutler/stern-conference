@@ -1,0 +1,3121 @@
+combosort length is  1303
+----------------
+Ms-101,5r[3]
+rectos length: 5, versos length: 13
+----------------
+Ms-101,7r[3] et 8r[1]
+rectos length: 5, versos length: 13
+----------------
+Ms-101,8r[2]
+rectos length: 5, versos length: 13
+----------------
+Ms-102,IIr[1]
+rectos length: 5, versos length: 13
+----------------
+Ms-103,IIIr[1]
+rectos length: 5, versos length: 13
+----------------
+Ms-101,1r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,1r[2] et 2r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,2r[2]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,2r[3] et 3r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,3r[2] et 4r[1] et 5r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,5r[2]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,5r[4] et 6r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,6r[2] et 7r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,7r[2]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,8r[4] (1914--0822) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,8r[5] et 9r[1] (1914--0822) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,8r[3]
+rectos length: 3, versos length: 1
+----------------
+Ms-101,9r[2] et 10r[1] et 11r[1]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,11r[2]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,11r[3]
+rectos length: 1, versos length: 1
+----------------
+Ms-101,12r[2] et 13r[1] (1914--0902) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,13r[2] (1914--0902) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,11r[4] et 12r[1]
+rectos length: 3, versos length: 1
+----------------
+Ms-101,13r[3] et 14r[1] (1914--0903) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,14r[2] et 15r[1] (1914--0903) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,15r[2] (1914--0903) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,15r[3] (1914--0903) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,16r[1] et 17r[1] (1914--0903) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,13r[3] 
+rectos length: 6, versos length: 1
+----------------
+Ms-101,17r[2] (1914--0904) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,17r[3] et 18r[1] (1914--0904) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,18r[2] (1914--0904) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,18r[3] (1914--0904) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,18r[4] (1914--0904) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,18r[5] (1914--0905) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,18r[6] et 19r[1] (1914--0905) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,19r[2] (1914--0905)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,19r[3] (1914--0905) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,19r[4] (1914--0906)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,19r[5] (1914--0906) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,19r[6] (1914--0906) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,20r[1] (1914--0906)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,20r[2] (1914--0907) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-101,20r[3] et 21r[1] (1914--0907) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-101,21r[2] (1914--0908) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-101,21r[3] (1914--0919) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-101,22r[1] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,22r[2] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,22r[3] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,22r[4] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,22r[5] et 23r[1] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,23r[2] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,23r[3] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,23r[4] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,23r[5] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,24r[1] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,24r[2] et 25r[1] (1914--0920) (NB)
+rectos length: 11, versos length: 1
+----------------
+Ms-101,25r[2] (1914--0921) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,25r[3] (1914--0921) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,25r[4] (1914--0921) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,25r[5] (1914--0921) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,25r[6] (1914--0923)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,25r[7] (1914--0923)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,26r[1] (1914--0923) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,26r[2] (1914--0924) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-101,26r[3] (1914--0925) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,26r[4] (1914--0925) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,26r[5] (1914--0925) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,27r[1] (1914--0926) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-101,27r[2] (1914--0927) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,27r[3] (1914--0927) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,27r[4] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,28r[1] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,28r[2] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,28r[3] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,28r[4] et 29r[1] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,29r[2] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,29r[3] (1914--0929) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,29r[4] et 30r[1] (1914--0930) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,30r[2] (1914--0930) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,30r[3] (1914--0930) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,30r[4] (1914--1002) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,30r[5] (1914--1002) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[1] (1914--1002) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[2] (1914--1002) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[3] (1914--1003) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[4] (1914--1003) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[5] (1914--1003) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,31r[6] et 32r[1] (1914--1003) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,32r[2] (1914--1004) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,32r[3] (1914--1004) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,32r[4] (1914--1004) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,33r[1] (1914--1005) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,33r[2] (1914--1005) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,33r[3] (1914--1005) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,33r[4] (1914--1005) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-101,33r[5] et 34r[1] (1914--1006) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,34r[2] (1914--1006) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,34r[3] (1914--1006) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,34r[4] (1914--1007) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-101,34r[5] (1914--1008) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,35r[1] (1914--1008) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,35r[2] (1914--1008) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,35r[3] (1914--1008) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,35r[4] (1914--1008) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,35r[5] et 36r[1] (1914--1009) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,36r[2] (1914--1009) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,36r[3] (1914--1009) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,36r[4] (1914--1009) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,36r[5] (1914--1009) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,36r[6] (1914--1010) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-101,37r[1] (1914--1011) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,37r[2] et 38r[1] (1914--1011) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,38r[2] (1914--1011) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,38r[3] (1914--1011) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,38r[4] et 39r[1] (1914--1011) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,39r[2] (1914--1012) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,39r[3] (1914--1012) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,39r[4] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,39r[5] et 40r[1] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,40r[2] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,40r[3] et 41r[1] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,41r[2] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,41r[3] (1914--1013) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-101,41r[4] et 42r[1] (1914--1014) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,42r[2] (1914--1014) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,42r[3] et 43r[1] (1914--1014) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,43r[2] (1914--1014) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,43r[3] (1914--1014) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,43r[4] et 44r[1] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,44r[2] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,44r[3] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,44r[4] et 45r[1] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,45r[2] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,46r[1] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,46r[2] (1914--1015) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,46r[3] et 47r[1] (1914--1016) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,47r[2] (1914--1016) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,47r[3] (1914--1016) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,47r[4] et 48r[1] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,48r[2] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,48r[3] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,49r[1] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,49r[2] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,49r[3] et 50r[1] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,50r[2] (1914--1017) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,50r[3] (1914--1018) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,50r[4] et 51r[1] (1914--1018) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,51r[2] (1914--1019) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,51r[3] (1914--1019) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,51r[4] (1914--1019) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,52r[1] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,52r[2] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,52r[3] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,52r[4] et 53r[1] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,53r[2] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,53r[3] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,54r[1] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,54r[2] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,54r[3] et 55r[1] (1914--1020) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,55r[2] (1914--1021) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,55r[3] (1914--1021) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,56r[1] (1914--1021) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,56r[2] (1914--1021) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,56r[3] (1914--1021) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-101,56r[4] et 57r[1] et 58r[1] (1914--1022) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,58r[2] (1914--1022) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,58r[3] (1914--1022) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,58r[4] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,58r[5] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,59r[1] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,59r[2] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,59r[3] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,59r[4] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,59r[5] et 60r[1] (1914--1023) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,60r[2] (1914--1024) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,60r[3] et 61r[1] (1914--1024) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,61r[2] (1914--1024) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,61r[3] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,61r[4] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,61r[5] et 62r[1] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,62r[2] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,62r[3] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,62r[4] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,62r[5] et 63r[1] (1914--1025) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,63r[2] (1914--1026) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,63r[3] et 64r[1] (1914--1026) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,64r[2] (1914--1026) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-101,64r[3] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,64r[4] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,64r[5] et 65r[1] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,65r[2] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,65r[3] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,65r[4] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,65r[5] (1914--1027) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-101,65r[6] et 66r[1] (1914--1028) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,66r[2] (1914--1028) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-101,66r[3] et 67r[1] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,67r[2] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,67r[3] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,67r[4] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,67r[5] et 68r[1] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,68r[2] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,68r[3] et 69r[1] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,69r[2] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,69r[3] (1914--1029) (NB)
+rectos length: 9, versos length: 1
+----------------
+Ms-101,69r[4] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-101,69r[5] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-101,69r[6] et 70r[1] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-101,70r[2] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-101,70r[3] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-101,70r[4] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-102,1r[1] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-102,1r[2] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-102,1r[3] (1914--1030) (NB)
+rectos length: 9, versos length: 2
+----------------
+Ms-102,1r[4] et 2r[1] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,2r[2] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,2r[3] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,2r[4] et 3r[1] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,3r[2] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,3r[3] (1914--1031) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,3r[4] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,3r[5] et 4r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,4r[2] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,4r[3] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,4r[4] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,4r[5] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,5r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,5r[2] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,5r[3] et 6r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,6r[2] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,6r[3] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,6r[4] et 7r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,7r[2] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,7r[3] et 8r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,8r[2] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,8r[3] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,8r[4] et 9r[1] (1914--1101) (NB)
+rectos length: 17, versos length: 1
+----------------
+Ms-102,9r[2] (1914--1102) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,9r[3] (1914--1102) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,10r[1] (1914--1102) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,10r[2] (1914--1102) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,10r[3] et 11r[1] (1914--1102) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,11r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,11r[3] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,11r[4] et 12r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,12r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,12r[3] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,12r[4] et 13r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,13r[2] et 14r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,14r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,14r[3] et 15r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,15r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,15r[3] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,15r[4] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,15r[5] et 16r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,16r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,16r[3] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,16r[4] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,16r[5] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,17r[1] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,17r[2] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,17r[3] (1914--1103) (NB)
+rectos length: 20, versos length: 1
+----------------
+Ms-102,17r[4] (1914--1104) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,18r[1] (1914--1104) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,18r[2] (1914--1104) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,18r[3] (1914--1104) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,18r[4] et 19r[1] (1914--1104) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,19r[2] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,19r[3] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,19r[4] et 20r[1] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,20r[2] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,20r[3] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,20r[4] et 21r[1] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,21r[2] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,21r[3] (1914--1105) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,21r[4] (1914--1106) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,21r[5] et 22r[1] (1914--1106) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,22r[2] (1914--1106) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,22r[3] (1914--1106) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,22r[4] (1914--1107) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,23r[1] (1914--1108) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,23r[2] (1914--1108) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,23r[3] (1914--1108) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,23r[4] et 24r[1] (1914--1108) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,24r[2] (1914--1109) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,24r[3] (1914--1109) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,25r[1] (1914--1109) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,25r[2] (1914--1109) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,25r[3] (1914--1109) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,26r[1] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,26r[2] et 27r[1] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,27r[2] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,28r[1] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,28r[2] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,28r[3] (1914--1110) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,28r[4] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,29r[1] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,29r[2] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,30r[1] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,30r[2] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,30r[3] et 31r[1] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,31r[2] (1914--1112) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,31r[3] (1914--1113) (NB) 
+rectos length: 2, versos length: 1
+----------------
+Ms-102,31r[4] et 32r[1] (1914--1113) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,32r[2] (1914--1115) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,33r[1] (1914--1115) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,33r[2] (1914--1115) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,33r[3] (1914--1115) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,33r[4] et 34r[1] (1914--1115) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,34r[2] (1914--1116) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,34r[3] (1914--1117) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,34r[4] (1914--1118) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,34r[5] et 35r[1] (1914--1119) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,35r[2] (1914--1120) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,35r[3] (1914--1120) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,35r[4] et 36r[1] (1914--1121) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,36r[2] (1914--1121) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,36r[3] (1914--1122) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,36r[4] et 37r[1] (1914--1123) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,37r[2] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,37r[3] et 38r[1] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,38r[2] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,38r[3] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,38r[4] et 39r[1] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,39r[2] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,39r[3] (1914--1124) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,39r[4] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,39r[5] et 40r[1] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,40r[2] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,40r[3] et 41r[1] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,41r[2] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,41r[3] et 42r[1] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,42r[2] (1914--1125) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,42r[3] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,42r[4] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,42r[5] et 43r[1] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,43r[2] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,43r[3] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,44r[1] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,44r[2] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,44r[3] et 45r[1] (1914--1126) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,45r[2] et 46r[1] (1914--1127) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,46r[2] (1914--1128) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,46r[3] (1914--1129) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,46r[4] (1914--1129) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,46r[5] et 47r[1] (1914--1129) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,47r[2] (1914--1129) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,47r[3] et 48r[1] (1914--1130) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,48r[2] (1914--1201) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,48r[3] (1914--1204) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,48r[4] (1914--1205) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,48r[5] et 49r[1] et 50r[1] et 51r[1] et 52r[1] et 53r[1] (1914--1206) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,53r[2] et 54r[1] (1914--1207) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,54r[2] (1914--1208) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,54r[3] (1914--1212) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,54r[4] (1914--1213) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,54r[5] et 55r[1] (1914--1213) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,55r[2] (1914--1214? --1215?) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,55r[3] (1914--1215) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,55r[4] (1914--1216) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,56r[1] (1914--1217) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,56r[2] (1914--1218) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,56r[3] (1914--1220) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,56r[4] (1914--1220) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,56r[5] et 57r[1] (1914--1220) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,57r[2] (1914--1223) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,57r[3] et 58r[1] (1914--1225) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,58r[2] (1914--1225) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,58r[3] (1914--1225) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,58r[4] (1914--1225) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,58r[5] et 59r[1] (1914--1229) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,59r[2] (1915--0111) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,59r[3] (1915--0111) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,59r[4] (1915--0111) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,59r[5] et 60r[1] (1915--0114) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,60r[2] (1915--0116) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,60r[3] (1915--0116) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,60r[4] (1915--0116) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,60r[5] et 61r[1] (1915--0116) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,61r[2] (1915--0116) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,61r[3] (1915--0117) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,61r[4] et 62r[1] (1915--0117) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,62r[2] (1915--0118) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,62r[3] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,62r[4] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,62r[5] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,62r[6] et 63r[1] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,63r[2] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,63r[3] (1915--0120) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,63r[4] (1915--0121) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,63r[5] et 64r[1] (1915--0122) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,64r[2] (1915--0122) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,64r[3] (1915--0122) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,64r[4] (1915--0123) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,64r[5] (1915--0123) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,64r[6] (1915--0123) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,64r[7] et 65r[1] (1915--0123) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,65r[2] (1915--0124) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,65r[3] (1915--0124) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,65r[4] (1915--0124) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,65r[5] (1915--0125) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,65r[6] et 66r[1] (1915--0129) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,66r[2] (1915--0207) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,66r[3] (1915--0214) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,66r[4] (1915--0214) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,66r[5] et 67r[1] (1915--0218)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,67r[2] (1915--0304) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,67r[3] (1915--0305) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,67r[4] (1915--0305) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,67r[5] et 68r[1] (1915--0306) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,68r[2] (1915--0307) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,68r[3] (1915--0308) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,68r[4] (1915--0318) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,69r[1] (1915--0327) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,69r[2] (1915--0329) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,69r[3] (1915--0329) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,69r[4] et 70r[1] (1915--0329) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,70r[2] (1915--0403) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,70r[3] (1915--0403) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,70r[4] et 71r[1] (1915--0403) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,71r[2] (1915--0405) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,71r[3] (1915--0410) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,71r[4] (1915--0412) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,71r[5] et 72r[1] (1915--0415) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,72r[2] (1915--0416) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,72r[3] (1915--0416) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,72r[4] (1915--0417) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,72r[5] et 73r[1] (1915--0417) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,73r[2] (1915--0418) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,73r[3] (1915--0419) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,73r[4] et 74r[1] (1915--0423) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,74r[2] (1915--0423) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,74r[3] et 75r[1] (1915--0423) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,75r[2] (1915--0423) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,75r[3] (1915--0424) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,75r[4] et 76r[1] (1915--0425) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,76r[2] (1915--0425) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,76r[3] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,77r[1] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,77r[2] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,77r[3] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,77r[4] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,77r[5] et 78r[1] (1915--0426) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-102,78r[2] (1915--0427) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,78r[3] (1915--0427) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,78r[4] et 79r[1] (1915--0427? --0428?) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,79r[2] (1915--0428) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,79r[3] (1915--0428) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,79r[4] (1915--0428) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,79r[5] et 80r[1] (1915--0428) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,80r[2] (1915--0428? --0429?) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-102,80r[3] (1915--0429) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-102,80r[4] et 81r[1] (1915--0430) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,81r[2] (1915--0430) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,81r[3] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,81r[4] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,81r[5] et 82r[1] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,82r[2] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,82r[3] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,82r[4] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,82r[5] et 83r[1] (1915--0501) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-102,83r[2] (1915--0502) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,83r[3] (1915--0503) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,83r[4] et 84r[1] (1915--0503) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,84r[2] (1915--0503) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,84r[3] (1915--0504) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,84r[4] et 85r[1] (1915--0504) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,85r[2] (1915--0505) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,85r[3] (1915--0505) (NB)  
+rectos length: 2, versos length: 0
+----------------
+Ms-102,85r[4] (1915--0506) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,86r[1] (1915--0506) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,86r[2] (1915--0506) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,86r[3] (1915--0507) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,87r[1] (1915--0507) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,87r[2] (1915--0507) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-102,87r[3] et 88r[1] (1915--0508) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,88r[2] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,88r[3] et 89r[1] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,89r[2] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,89r[3] et 90r[1] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,90r[2] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,90r[3] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,90r[4] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,90r[5] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,91r[1] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,91r[2] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,91r[3] et 92r[1] (1915--0509) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,92r[2] (1915--0511) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,92r[3] (1915--0511) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,93r[1] (1915--0512) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,93r[2] (1915--0512) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,93r[3] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,93r[4] et 94r[1] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,94r[2] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,94r[3] et 95r[1] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,95r[2] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,95r[3] (1915--0513) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,95r[4] (1915--0514) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,96r[1] (1915--0514)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,96r[2] (1915--0514) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,96r[3] et 97r[1] (1915--0515) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,97r[2] (1915--0515)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,97r[3] (1915--0515) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,97r[4] (1915--0515) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,97r[5] et 98r[1] (1915--0516) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,98r[2] (1915--0516) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,98r[3] et 99r[1] (1915--0516) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,99r[2] (1915--0517? --0518?) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,99r[3] et 100r[1] (1915--0519) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,100r[2] (1915--0519) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,100r[3] (1915--0520) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,100r[4] et 101r[1] (1915--0521) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,101r[2] (1915--0522) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,101r[3] (1915--0522) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,101r[4] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,101r[5] et 102r[1] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,102r[2] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,102r[3] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,102r[4] et 103r[1] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,103r[2] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,103r[3] et 104r[1] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,104r[2] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,104r[3] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,104r[4] et 105r[1] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,105r[2] (1915--0523) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,105r[3] et 106r[1] (1915--0524) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,106r[2] (1915--0524) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,106r[3] (1915--0524) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,107r[1] (1915--0524) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-102,107r[2] (1915--0525) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,107r[3] et 108r[1] (1915--0525) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,108r[2] (1915--0525) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,109r[1] (1915--0525) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,109r[2] (1915--0526) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,109r[3] (1915--0526) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,109r[4] (1915--0526) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,110r[1] (1915--0527) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,110r[2] (1915--0527) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,110r[3] et 111r[1] (1915--0527) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,111r[2] (1915--0527) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,111r[3] (1915--0528) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,111r[4] (1915--0528) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,111r[5] et 112r[1] (1915--0529) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,112r[2] (1915--0529) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,112r[3] (1915--0529) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,112r[4] (1915--0529) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,112r[5] et 113r[1] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,113r[2] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,113r[3] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,114r[1] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,114r[2] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,114r[3] et 115r[1] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,115r[2] et 116r[1] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,116r[2] (1915--0530) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-102,116r[3] (1915--0531) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,116r[4] (1915--0531) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,117r[1] (1915--0531) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-102,117r[2] (1915--0601) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,117r[3] et 118r[1] (1915--0601) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-102,118r[2] (1915--0602) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,118r[3] (1915--0602) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,119r[1] (1915--0602) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,119r[2] (1915--0602) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,119r[3] (1915--0602) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,119r[4] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,119r[5] et 120r[1] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,120r[2] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,120r[3] et 121r[1] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,121r[2] et 122r[1] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,122r[2] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,122r[3] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,122r[4] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,122r[5] et 123r[1] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,123r[2] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,123r[3] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,123r[4] (1915--0603) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-102,123r[5] et 124r[1] (1915--0604) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,124r[2] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,124r[3] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,124r[4] et 125r[1] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,125r[2] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,125r[3] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,125r[4] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,125r[5] et 126r[1] (1915--0605) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-102,126r[2] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,126r[3] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,126r[4] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,126r[5] et 127r[1] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,127r[2] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,127r[3] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,127r[4] et 128r[1] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,128r[2] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,128r[3] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,128r[4] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,128r[5] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,129r[1] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,129r[2] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,129r[3] (1915--0606) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,130r[1] (1915--0607) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,130r[2] (1915--0607) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,130r[3] et 131r[1] (1915--0607) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,131r[2] (1915--0607) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,131r[3] et 132r[1] (1915--0608) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,132r[2] (1915--0608) (NB)
+rectos length: 2, versos length: 1
+----------------
+Ms-102,132r[3] (1915--0609) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,133r[1] (1915--0609) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,133r[2] (1915--0609) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,133r[3] (1915--0609) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,133r[4] et 134r[1] (1915--0609) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-102,134r[2] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,134r[3] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,134r[4] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,134r[5] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,135r[1] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,135r[2] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,135r[3] et 136r[1] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,136r[2] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,136r[3] (1915--0610) (NB)
+rectos length: 9, versos length: 0
+----------------
+Ms-102,137r[1] (1915--0611) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,137r[2] (1915--0611) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,137r[3] (1915--0611) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,137r[4] et 138r[1] (1915--0611) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,138r[2] (1915--0612) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,138r[3] et 139r[1] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,139r[2] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,139r[3] et 140r[1] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,140r[2] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,140r[3] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,140r[4] et 141r[1] (1915--0613) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-102,141r[2] (1915--0614) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,141r[3] et 142r[1] et 143r[1] (1915--0614) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,143r[2] (1915--0614) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,143r[3] et 144r[1] (1915--0614) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-102,144r[2] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,144r[3] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,145r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,145r[2] et 146r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,146r[3] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,147r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,147r[2] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,147r[3] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,147r[4] et 148r[1] et 149r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,149r[2] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,149r[3] et 150r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,150r[2] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,150r[3] et 151r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,151r[2] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,151r[3] et 152r[1] (1915--0615) (NB)
+rectos length: 15, versos length: 0
+----------------
+Ms-102,146r[2] (1915--0616) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-102,152r[2] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,152r[3] et 153r[1] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,153r[2] et 154r[1] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,154r[2] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,154r[3] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,154r[4] et 154r[1] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,155r[2] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,155r[3] et 156r[1] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,156r[2] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,156r[3] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,156r[4] et 157r[1] et 158r[1] et 159r[1] et 160r[1] (1915--0617) (NB)
+rectos length: 11, versos length: 0
+----------------
+Ms-102,160r[2] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,161r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,161r[2] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,161r[3] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,162r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,162r[2] et 163r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,163r[2] et 164r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,164r[2] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,164r[3] et 165r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,165r[2] et 166r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,167r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,167r[2] (1915--0618)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,168r[1] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,168r[2] (1915--0618) (NB)
+rectos length: 14, versos length: 0
+----------------
+Ms-102,168r[3] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,168r[4] et 169r[1] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,169r[2] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,169r[3] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,170r[1] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,170r[2] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,171r[1] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,171r[2] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,171r[3] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,172r[1] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,172r[2] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,172r[3] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,173r[1] (1915--0619) (NB)
+rectos length: 13, versos length: 0
+----------------
+Ms-102,173r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,173r[3] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,174r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,174r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,174r[3] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,175r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,175r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,175r[3] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,176r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,176r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,176r[3] et 177r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,177r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,177r[3] et 178r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,178r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,178r[3] et 179r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,179r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,179r[3] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,179r[4] et 180r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,180r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,180r[3] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,181r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,181r[2] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,182r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,182r[2] et 183r[1] (1915--0620) (NB)
+rectos length: 24, versos length: 0
+----------------
+Ms-102,183r[2] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,183r[3] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,184r[1] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,184r[2] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,184r[3] et 185r[1] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,185r[2] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,185r[3] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,185r[4] et 186r[1] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,186r[2] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,187r[1] (1915--0621) (NB)
+rectos length: 10, versos length: 0
+----------------
+Ms-102,187r[2] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,187r[3] et 188r[1] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,188r[2] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,188r[3] et 188v[1] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,189r[1] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,189r[2] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,189r[3] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-102,189r[4] (1915--0622) (NB)
+rectos length: 8, versos length: 1
+----------------
+Ms-103,1r[1] (1916--0415) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,1r[2] (1916--0415) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,1r[3] (1916--0415) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,1r[4] (1916--0415) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,1r[5] (1916--0415) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,2r[1] (1916--0416)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,2r[2] (1916--0416) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,2r[3] (1916--0416) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,2r[4] (1916--0416) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,2r[5] et 3r[1] (1916--0416) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,3r[2] (1916--0417) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,3r[3] (1916--0417) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,4r[1] (1916--0423) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,4r[2] (1916--0426) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,4r[3] (1916--0426) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,4r[4] et 5r[1] (1916--0426) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,5r[2] (1916--0426) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,5r[3] (1916--0426) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,5r[4] et 6r[1] (1916--0427) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,6r[2] (1916--0427) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,6r[3] (1916--0427) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,6r[4] (1916--0427)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,6r[5] et 7r[1] (1916--0506) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,7r[2] (1916--0506) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,7r[3] (1916--0506) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,7r[4] et 8r[1] (1916--0511) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,8r[2] (1916--0511) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,8r[3] (1916--0511) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,8r[4] (1916--0511) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,8r[5] (1916--0521)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,8r[6] (1916--0524)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,8r[7] et 9r[1] et 10r[1] (1916--0525? --0611?) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,11r[1] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,11r[2] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,11r[3] et 12r[1] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,12r[2] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,12r[3] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,12r[4] (1916--0705) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,13r[1] (1916--0706) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,13r[2] (1916--0706) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,13r[3] (1916--0706) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,13r[4] et 14r[1] (1916--0706) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,14r[2] (1916--0707) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,14r[3] (1916--0707) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,14r[4] (1916--0707) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,16r[2]
+rectos length: 4, versos length: 1
+----------------
+Ms-103,14r[5] et 15r[1] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,15r[2] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,15r[3] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,15r[4] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,15r[5] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,15r[6] et 17r[1] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,17r[2] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,17r[3] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,17r[4] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,17r[5] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[1] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[2] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[3] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[4] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[5] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,18r[6] et 19r[1] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,19r[2] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,19r[3] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,19r[4] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,20r[1] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,20r[2] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,20r[3] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,20r[4] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,20r[5] (1916--0708) (NB)
+rectos length: 25, versos length: 1
+----------------
+Ms-103,16r[3]
+rectos length: 25, versos length: 1
+----------------
+Ms-103,21r[1] (1916--0709) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,21r[2] (1916--0709) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,21r[3] (1916--0709) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,21r[4] et 22r[1] (1916--0709) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,22r[2] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,22r[3] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,22r[4] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,22r[5] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,23r[1] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,23r[2] (1916--0711) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,23r[3] (1916--0712? --0713?) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,23r[4] et 24r[1] (1916--0713) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,24r[2] (1916--0713) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,24r[3] (1916--0714) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,24r[4] et 25r[1] (1916--0714) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,25r[2] (1916--0714) (NB)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,25r[3] (1916--0714)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,25r[4] (1916--0714)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,26r[1] (1916--0714)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,26r[2] (1916--0714)
+rectos length: 7, versos length: 1
+----------------
+Ms-103,26r[3] (1916--0715)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,26r[4] (1916--0715)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,27r[1] (1916--0716)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,27r[2] (1916--0720)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,27r[3] (1916--0720) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,27r[4] (1916--0720) (NB)
+rectos length: 3, versos length: 1
+----------------
+Ms-103,27r[5] et 28r[1] (1916--0721) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,28r[2] (1916--0721) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,28r[3] et 29r[1] (1916--0721) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,29r[2] (1916--0721) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,29r[3] (1916--0721) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,30r[1] (1916--0724) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,30r[2] (1916--0724) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,30r[3] (1916--0724) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,30r[4] (1916--0724) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,30r[5] et 31r[1] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,31r[2] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,31r[3] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,31r[4] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,31r[5] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,31r[6] et 32r[1] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,32r[2] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,32r[3] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,32r[4] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,32r[5] et 33r[1] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,33r[2] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,33r[3] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,33r[4] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,33r[5] (1916--0729) (NB)
+rectos length: 14, versos length: 1
+----------------
+Ms-103,34r[1] et 35r[1] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,35r[2] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,36r[1] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,36r[2] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,36r[3] et 37r[1] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,37r[2] (1916--0730) (NB)
+rectos length: 6, versos length: 1
+----------------
+Ms-103,37r[3] (1916--0801) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,37r[4] (1916--0801) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,37r[5] (1916--0801) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,37r[6] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,37r[7] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,38r[1] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,38r[2] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,38r[3] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,39r[1] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,39r[2] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,39r[3] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,39r[4] et 40r[1] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,40r[2] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,40r[3] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,40r[4] (1916--0802) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,40r[5] et 41r[1] (1916--0804) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,41r[2] (1916--0804) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,41r[3] (1916--0804) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,41r[4] (1916--0805) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,42r[1] (1916--0805) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,42r[2] (1916--0805) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,42r[3] (1916--0805) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,42r[4] (1916--0807) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,42r[5] (1916--0808? --0811?) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,43r[1] (1916--0811) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,43r[2] (1916--0812) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,43r[3] (1916--0812) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,43r[4] et 44r[1] (1916--0812) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,44r[2] (1916--0812) (NB)
+rectos length: 4, versos length: 1
+----------------
+Ms-103,44r[3] (1916--0813) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,44r[4] et 45r[1] (1916--0813) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,45r[2] (1916--0813) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,45r[3] (1916--0813) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,45r[4] (1916--0813) (NB)
+rectos length: 5, versos length: 1
+----------------
+Ms-103,46r[1] et 47r[1] (1916--0816) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,47r[2] (1916--0817) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,47r[3] (1916--0817) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,47r[4] et 48r[1] (1916--0819? --0829?) (NB)
+rectos length: 1, versos length: 1
+----------------
+Ms-103,48r[2] (1916--0829) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,48r[3] (1916--0829) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,48r[4] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,49r[1] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,49r[2] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,49r[3] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,49r[4] et 50r[1] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,50r[2] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,50r[3] et 51r[1] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,51r[2] (1916--0902) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,51r[3] (1916--0911) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,52r[1] (1916--0911) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,52r[2] (1916--0911) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,52r[3] (1916--0911) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,52r[4] et 53r[1] (1916--0912) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,53r[2] (1916--0919) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,53r[3] et 54r[1] (1916--0919) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,54r[2] (1916--0919) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,54r[3] (1916--0919) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,54r[4] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,55r[1] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,55r[2] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,55r[3] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,55r[4] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,55r[5] (1916--1007) (NB)
+rectos length: 6, versos length: 0
+----------------
+Ms-103,56r[1] (1916--1008) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,56r[2] (1916--1008) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,57r[1] (1916--1008) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,57r[2] (1916--1009) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,57r[3] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,57r[4] et 58r[1] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,58r[2] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,58r[3] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,58r[4] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,58r[5] et 59r[1] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,59r[2] (1916--1012) (NB)
+rectos length: 7, versos length: 0
+----------------
+Ms-103,59r[3] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,59r[4] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,59r[5] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,60r[1] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,60r[2] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,60r[3] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,60r[4] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,60r[5] et 61r[1] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,61r[2] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,61r[3] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,61r[4] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,62r[1] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,62r[2] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,62r[3] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,62r[4] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,63r[1] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,63r[2] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,63r[3] et 64r[1] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,64r[2] (1916--1015) (NB)
+rectos length: 19, versos length: 0
+----------------
+Ms-103,64r[3] et 65r[1] (1916--1017) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,65r[2] (1916--1017) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,65r[3] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,65r[4] et 66r[1] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,66r[2] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,66r[3] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,66r[4] et 67r[1] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,67r[2] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,68r[1] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,68r[2] (1916--1020) (NB)
+rectos length: 8, versos length: 0
+----------------
+Ms-103,68r[3] (1916--1021) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,68r[4] et 69r[1] (1916--1029) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,69r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,69r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,69r[4] et 70r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,70r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,70r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,70r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,70r[5] et 71r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,71r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,71r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,71r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,71r[5] et 72r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,72r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,72r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,72r[4] et 73r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,73r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,73r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,73r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,74r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,74r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,74r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,74r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,74r[5] et 75r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,75r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,75r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,75r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,75r[5] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,75r[6] et 76r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,76r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,76r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,76r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,76r[5] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,77r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,77r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,77r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,77r[4] et 78r[1] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,78r[2] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,78r[3] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,78r[4] (1916--1104) (NB)
+rectos length: 38, versos length: 0
+----------------
+Ms-103,78r[5] et 79r[1] (1916--1108) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,79r[2] (1916--1108) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,79r[3] (1916--1108) (NB)
+rectos length: 3, versos length: 0
+----------------
+Ms-103,79r[4] (1916--1119) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,79r[5] (1916--1119) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,79r[6] et 80r[1] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,80r[2] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,80r[3] et 81r[1] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,81r[2] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,81r[3] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,81r[4] et 82r[1] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,82r[2] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,82r[3] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,82r[4] et 83r[1] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,83r[2] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,83r[3] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,83r[4] et 84r[1] (1916--1121) (NB)
+rectos length: 12, versos length: 0
+----------------
+Ms-103,84r[2] (1916--1122) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,84r[3] (1916--1123) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,84r[4] (1916--1123) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,85r[1] (1916--1123) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,85r[2] (1916--1123) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,85r[3] et 86r[1] (1916--1123) (NB)
+rectos length: 5, versos length: 0
+----------------
+Ms-103,86r[2] (1916--1124) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,86r[3] (1916--1124) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,87r[1] (1916--1126) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,87r[2] (1916--1127? --1128?) (NB)
+rectos length: 1, versos length: 0
+----------------
+Ms-103,87r[3] (1916--1202) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,87r[4] et 88r[1] (1916--1202) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,88r[2] (1916--1202) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,88r[3] et 89r[1] (1916--1202) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,89r[2] (1917--0107) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,89r[3] (1917--0107) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,90r[1] (1917--0107) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,90r[2] (1917--0107) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,90r[3] (1917--0108) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,91r[1] (1917--0108) (NB)
+rectos length: 2, versos length: 0
+----------------
+Ms-103,91r[2] (1917--0110) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,91r[3] (1917--0110) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,92r[1] (1917--0110) (NB)
+rectos length: 4, versos length: 0
+----------------
+Ms-103,92r[2] (1917--0110) (NB)
+rectos length: 4, versos length: 0

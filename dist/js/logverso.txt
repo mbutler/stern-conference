@@ -1,0 +1,790 @@
+combosort length is  1303
+----------------
+Ms-101,24v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-101,40v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-101,41v[2]
+verso length: 8, rectos length: 0
+----------------
+Ms-102,16v[3] et 17v[1] et 18v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-103,1v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-103,4v[4]
+verso length: 8, rectos length: 0
+----------------
+Ms-103,52v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-103,55v[1]
+verso length: 8, rectos length: 0
+----------------
+Ms-101,16v[2]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,17v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,18v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,20v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-101,20v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,20v[4] et 21v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,21v[2] et 22v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,22v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,23v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,24v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,24v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,26v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-101,26v[3]
+verso length: 1, rectos length: 11
+----------------
+Ms-101,27v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,28v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,28v[3]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,29v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-101,29v[3]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,29v[4]
+verso length: 1, rectos length: 2
+----------------
+Ms-101,29v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,30v[2]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,31v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,31v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-101,31v[4]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,31v[5]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,32v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,33v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-101,34v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,34v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-101,35v[2]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,36v[2]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,37v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-101,37v[3]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,38v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-101,40v[2]
+verso length: 1, rectos length: 6
+----------------
+Ms-101,41v[3]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,42v[2]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,42v[3]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,42v[4]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,43v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-101,44v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,45v[2]
+verso length: 1, rectos length: 9
+----------------
+Ms-101,45v[3]
+verso length: 1, rectos length: 5
+----------------
+Ms-101,45v[4]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,46v[2]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,46v[3]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,46v[4]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,48v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-101,48v[3]
+verso length: 1, rectos length: 7
+----------------
+Ms-101,48v[4]
+verso length: 1, rectos length: 2
+----------------
+Ms-101,50v[2]
+verso length: 1, rectos length: 9
+----------------
+Ms-101,51v[2]
+verso length: 2, rectos length: 9
+----------------
+Ms-102,1v[1]
+verso length: 2, rectos length: 9
+----------------
+Ms-102,1v[2] et 2v[1]
+verso length: 1, rectos length: 6
+----------------
+Ms-102,2v[2] et 3v[1]
+verso length: 1, rectos length: 17
+----------------
+Ms-102,3v[2]
+verso length: 1, rectos length: 5
+----------------
+Ms-102,3v[3] et 4v[1] 
+verso length: 1, rectos length: 20
+----------------
+Ms-102,4v[2] et 5v[1]
+verso length: 1, rectos length: 5
+----------------
+Ms-102,5v[2] et 6v[1]
+verso length: 1, rectos length: 8
+----------------
+Ms-102,6v[2] 
+verso length: 1, rectos length: 4
+----------------
+Ms-102,6v[3] et 7v[1] 
+verso length: 1, rectos length: 1
+----------------
+Ms-102,8v[1] 
+verso length: 1, rectos length: 4
+----------------
+Ms-102,8v[2] et 9v[1] et 10v[1]
+verso length: 1, rectos length: 5
+----------------
+Ms-102,10v[2] et 11v[1]
+verso length: 1, rectos length: 6
+----------------
+Ms-102,11v[2] et 12v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,12v[2] et 13v[1]
+verso length: 1, rectos length: 7
+----------------
+Ms-102,13v[2] et 14v[1] et 15v[1]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,15v[2] et 16v[1]v
+verso length: 1, rectos length: 0
+----------------
+Ms-102,16v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,18v[2] et 19v[1] et 20v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,20v[2] et 21v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,22v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,22v[2] et 23v[1]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,23v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,23v[3] et 24v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,24v[2] et 25v[1] et 26v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,26v[2] et 27v[1]
+verso length: 1, rectos length: 7
+----------------
+Ms-102,27v[2] et 28v[1]
+verso length: 1, rectos length: 7
+----------------
+Ms-102,28v[2] et 29v[1] et 30v[1]
+verso length: 1, rectos length: 8
+----------------
+Ms-102,30v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,30v[3] et 31v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,31v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-102,31v[3] et 32v[1] et 33v[1] 
+verso length: 1, rectos length: 1
+----------------
+Ms-102,33v[2] et 34v[1] et 35v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,35v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,35v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,36v[1] et 37v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,37v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,38v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,38v[2] et 39v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,39v[2] et 40v[1] et 41v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,41v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,41v[3] et 42v[1] et 43v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,43v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,43v[3] et 44v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,44v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,44v[3] et 45v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,45v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,45v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,45v[4]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,46v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,46v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,46v[3]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,46v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,46v[5] et 47v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,47v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,47v[3]
+verso length: 1, rectos length: 4
+----------------
+Ms-102,47v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,47v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,48v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,48v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,48v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,48v[4] et 49v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,49v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,49v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,50v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,50v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,50v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,50v[4] et 51v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,51v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,51v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,51v[4]
+verso length: 1, rectos length: 5
+----------------
+Ms-102,52v[1]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,52v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,52v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,52v[4]
+verso length: 1, rectos length: 6
+----------------
+Ms-102,52v[5] et 53v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,53v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,53v[3]
+verso length: 1, rectos length: 4
+----------------
+Ms-102,53v[4]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,53v[5] et 54v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,54v[2
+verso length: 1, rectos length: 0
+----------------
+Ms-102,54v[3] et 55v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,55v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,55v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,55v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,55v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,56v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,56v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,56v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,56v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,57v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,57v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,57v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,57v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,57v[5] et 58v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,58v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,58v[3] et 59v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,59v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,59v[3] et 60v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,60v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,60v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,60v[4] et 61v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,61v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,61v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,61v[4] et 62v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,62v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,62v[3] et 63v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,63v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,63v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,63v[4] et 64v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,64v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,64v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,64v[4] et 65v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,65v[2] et 66v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,66v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,66v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,66v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,66v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,67v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,67v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,67v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,68v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,68v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,68v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,68v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,68v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,69v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,69v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,69v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,69v[4]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,69v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,69v[6]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,69v[7] et 70v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,70v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,70v[3]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,70v[4]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,70v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,70v[6]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,71v[1]
+verso length: 1, rectos length: 6
+----------------
+Ms-102,71v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,71v[3]
+verso length: 1, rectos length: 5
+----------------
+Ms-102,71v[4]
+verso length: 1, rectos length: 1
+----------------
+Ms-102,71v[5]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,71v[6]
+verso length: 1, rectos length: 7
+----------------
+Ms-102,72v[1]
+verso length: 1, rectos length: 3
+----------------
+Ms-102,72v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-102,72v[3]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,72v[4]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,72v[5] et 73v[1]
+verso length: 1, rectos length: 4
+----------------
+Ms-102,73v[2]
+verso length: 1, rectos length: 2
+----------------
+Ms-102,188v[2] (1915--0622) (NB)
+verso length: 5, rectos length: 12
+----------------
+Ms-102,188v[3] (1915--0622) (NB)
+verso length: 5, rectos length: 12
+----------------
+Ms-102,189r[5] et 189v[1] (1915--0622) (NB)
+verso length: 5, rectos length: 1
+----------------
+Ms-102,189v[2] (1915--0622) (NB)
+verso length: 5, rectos length: 12
+----------------
+Ms-102,73v[3]
+verso length: 5, rectos length: 12
+----------------
+Ms-103,1v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,2v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,2v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,3v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,3v[2] et 4v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,4v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,4v[3]
+verso length: 1, rectos length: 5
+----------------
+Ms-103,4v[5]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,5v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,5v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,6v[1]
+verso length: 1, rectos length: 5
+----------------
+Ms-103,6v[2] et 7v[1]
+verso length: 1, rectos length: 4
+----------------
+Ms-103,7v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,7v[3]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,7v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,7v[5] et 8v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,8v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,8v[3] et 9v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,9v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,9v[3] et 10v[1]
+verso length: 1, rectos length: 3
+----------------
+Ms-103,10v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,10v[3] et 12v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,12v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,12v[3] et 13v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,13v[2]
+verso length: 1, rectos length: 4
+----------------
+Ms-103,13v[3] et 14v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,14v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,14v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,14v[4]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,14v[5] et 15v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,15v[2]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,15v[3] et 16r[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,16r[4] et 16v[1]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,16v[2]
+verso length: 1, rectos length: 7
+----------------
+Ms-103,16v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,17v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,17v[2]
+verso length: 1, rectos length: 3
+----------------
+Ms-103,17v[3]
+verso length: 1, rectos length: 4
+----------------
+Ms-103,17v[4] et 18v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,18v[2] et 19v[1]
+verso length: 1, rectos length: 14
+----------------
+Ms-103,19v[2] et 20v[1]
+verso length: 1, rectos length: 6
+----------------
+Ms-103,20v[2] et 21v[1]
+verso length: 1, rectos length: 0
+----------------
+Ms-103,21v[2]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,21v[3] et 22v[1]
+verso length: 1, rectos length: 4
+----------------
+Ms-103,22v[2]
+verso length: 1, rectos length: 5
+----------------
+Ms-103,22v[3]
+verso length: 1, rectos length: 1
+----------------
+Ms-103,55v[1] (1916--1008)
+verso length: 3, rectos length: 6
+----------------
+Ms-103,55v[2] (1916--1008) (NB)
+verso length: 3, rectos length: 6
+----------------
+ Ms-103,56v[1] (1916--1008)
+verso length: 3, rectos length: 6
